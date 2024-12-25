@@ -1,0 +1,32 @@
+@import url("./fonts.css");
+
+*{
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+
+}
+.container{
+    margin: 0 auto;
+    width: 100%;
+    
+
+}
+
+#carouselExample{
+    width: 728px;
+    height: 90px;
+}
+
+.carousel-inner{
+    background-image: url(../imgs/image\ 1.png);
+}
+
+.carousel-item{
+    
+}
+
